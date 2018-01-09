@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Emilio's Blog</title>
+  <title>Some Words</title>
   <link href="http://je-miralles.github.io/blog/atom.xml" rel="self"/>
   <link href="http://je-miralles.github.io/blog"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>

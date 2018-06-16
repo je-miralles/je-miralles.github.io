@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Projects</title>
+  <link href="http://je-miralles.github.io/projects/atom.xml" rel="self"/>
+  <link href="http://je-miralles.github.io/projects"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://je-miralles.github.io/projects</id>
+  <author>
+    <name>Juan Emilio Miralles</name>
+    <email>emiralle@alumni.sfu.ca</email>
+  </author>
+
+</feed>

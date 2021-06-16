@@ -10,7 +10,7 @@ layout: default
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://je-miralles.github.io/projects</id>
   <author>
-    <name>Juan Emilio Miralles</name>
+    <name>Emilio Miralles</name>
     <email>emiralle@alumni.sfu.ca</email>
   </author>
 

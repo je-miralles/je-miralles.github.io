@@ -1,4 +1,4 @@
-name: Juan Emilio Miralles
+name: Emilio Miralles
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:

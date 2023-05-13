@@ -21,7 +21,7 @@ const IndexPage: React.FC<PageProps> = () => {
             <span>
               <a
                 className={`${link.color} font-bold text-base align-middle`}
-                href={`${link.url}?utm_source=starter&utm_medium=start-page&utm_campaign=je-miralles.github.io`}
+                href={`${link.url}`}
               >
                 {link.text}
               </a>

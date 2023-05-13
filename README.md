@@ -1,5 +1,5 @@
-<h1 align="center">
+<h2 align="center">
   juan emilio miralles
-</h1>
+</h2>
 
 homepage.

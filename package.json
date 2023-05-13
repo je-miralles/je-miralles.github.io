@@ -1,12 +1,9 @@
 {
-  "name": "minimal-gatsby-tailwind-typescript",
+  "name": "je-miralles.github.io",
   "version": "1.0.0",
   "private": true,
-  "description": "minimal-gatsby-tailwind-typescript",
+  "description": "homepage",
   "author": "Emilio Miralles <emilio_miralles@sfu.ca>",
-  "keywords": [
-    "gatsby"
-  ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -14,7 +11,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
     "gatsby": "^5.9.0",

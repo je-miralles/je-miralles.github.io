@@ -8,6 +8,12 @@ const links = [
     description: "Unapologetically randomized colours.",
     color: "text-sky-700",
   },
+  {
+    text: "Orbits!",
+    url: "http://je-miralles.github.io/orbits",
+    description: "A series of articles, codes, and toys for orbital mechanics.",
+    color: "text-sky-700",
+  },
 ]
 
 const IndexPage: React.FC<PageProps> = () => {
